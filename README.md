@@ -3,7 +3,15 @@ O objetivo deste repositório é possibilitar a interação a iniciados no ML co
 
 ## Como contribuir
 
-1. Clone este repositório
-2. Faça suas alterações
-3. Crie um branch
-4. Faça o seu Pull/Request
+1. Na [página página para este repositório](https://github.com/CllsPy/MLPG), cloque no botão "Fork".
+2. Clone o repositório no seu computador
+3. Adicione seu nome ao arquivo COLABORADORES.md
+4. Push suas alterações
+5. Vá na página do seu fork e faça um pull/request
+
+
+   ## Observações
+   Este repositório foi feito com o objetivo de que possa haver aprendizado em algum grau, se por acaso "quebrar" algo, não sinte-se responsável ou culpado, faz parte do processo.
+
+
+   Att, CLL.
