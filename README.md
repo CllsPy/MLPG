@@ -1,6 +1,3 @@
-# MLPG
-O objetivo deste repositório é possibilitar a interação a iniciados no ML com dados e tarefas da área.
-
 ## Como contribuir
 
 1. Na [página página para este repositório](https://github.com/CllsPy/MLPG), cloque no botão "Fork".
