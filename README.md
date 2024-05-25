@@ -2,7 +2,7 @@
 
 1. Na [página página para este repositório](https://github.com/CllsPy/MLPG), cloque no botão "Fork".
 2. Clone o repositório no seu computador
-3. Adicione seu nome ao arquivo COLABORADORES.md
+3. Adicione seu nome ao arquivo CONTRIBUTORS.md
 4. Push suas alterações
 5. Vá na página do seu fork e faça um pull/request
 
