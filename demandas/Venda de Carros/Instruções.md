@@ -1,6 +1,8 @@
 # Tarefa
 
-A empresa MLPG, para a qual você está trabalhando atualmente, solicitou que você realizasse uma análise exploratória do conjunto de dados "car_sales". O objetivo é compreender aspectos como a média das vendas de carros, além de identificar quais são os veículos com os maiores e menores valores. Além disso, a empresa deseja obter qualquer outra informação que possa auxiliar no aumento das vendas de automóveis.
+A empresa MLPG, para a qual vocÃª estÃ¡ trabalhando atualmente, solicitou que vocÃª realizasse uma anÃ¡lise exploratÃ³ria do conjunto de dados "car_sales". O objetivo Ã© compreender aspectos como a mÃ©dia das vendas de carros, alÃ©m de identificar quais sÃ£o os veÃ­culos com os maiores e menores valores. AlÃ©m disso, a empresa deseja obter qualquer outra informaÃ§Ã£o que possa auxiliar no aumento das vendas de automÃ³veis.
+
+Objetivo: Adicionar o arquivo no formato ".ipynb" em `answer/pasta_com_seu_nome`, nele deve conter a anÃ¡lise dos dados com seus comentÃ¡rios e conclusÃµes a respeito do dataset.
 
 # Ferramentas
 
@@ -10,7 +12,7 @@ A empresa MLPG, para a qual você está trabalhando atualmente, solicitou que você
 - Matplotlib
 - Google Colabs
 
-# Referências
+# ReferÃªncias
 
 - [Como realizar uma EDA?](https://www.kdnuggets.com/7-steps-to-mastering-exploratory-data-analysis)
 - [Google Colabs](https://colab.google/)
